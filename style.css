@@ -1,0 +1,27 @@
+.carousel-control.left {
+	background-image: linear-gradient(to right,rgb(255, 255, 255) 0,rgba(0,0,0,.0001) 100%);
+}
+
+
+.carousel-control.right {
+	background-image: linear-gradient(to right,rgba(0,0,0,.0001) 0,rgb(255, 255, 255) 100%);
+}
+
+
+
+textarea{
+	width: 100%;
+	margin-bottom: 29px;
+	
+	border-radius: 3px;
+}
+
+#linea1{
+	    margin-top: 20px;
+}
+
+@media screen and (max-width:991px){
+  #buscador{
+ 	margin-bottom: 20px;
+  }
+}
